@@ -1,7 +1,8 @@
-owner = CUB
-controller = CUB
+owner = GYA
+controller = GYA
 trade_goods = tobacco
 life_rating = 35
 colonial = 2
 
-add_core = CUB
+
+add_core = GYA
