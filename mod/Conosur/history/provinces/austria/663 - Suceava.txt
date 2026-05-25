@@ -1,6 +1,6 @@
-owner = KUK
-controller = KUK
-add_core = KUK
+owner = YUG
+controller = YUG
+add_core = YUG
 #add_core = UKR
 trade_goods = cattle
 life_rating = 35

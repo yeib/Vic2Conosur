@@ -1,6 +1,5 @@
 owner = YUG
 controller = YUG
 add_core = YUG
-#add_core = UKR
-trade_goods = fruit
+trade_goods = cotton
 life_rating = 35
