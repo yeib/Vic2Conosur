@@ -1,6 +1,7 @@
-controller = NET
-owner = NET
+controller = AST
+owner = AST
 trade_goods = tropical_wood
 life_rating = 15
 
 add_core = NET
+add_core = AST
