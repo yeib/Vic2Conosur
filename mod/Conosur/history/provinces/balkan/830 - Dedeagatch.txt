@@ -1,5 +1,5 @@
-owner = PER
-controller = PER
-add_core = PER
+owner = YUG
+controller = YUG
+add_core = YUG
 trade_goods = grain
 life_rating = 35

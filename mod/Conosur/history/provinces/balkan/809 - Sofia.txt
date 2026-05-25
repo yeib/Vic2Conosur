@@ -1,6 +1,6 @@
-owner = PER
-controller = PER
-add_core = PER
+owner = YUG
+controller = YUG
+add_core = YUG
 trade_goods = timber
 life_rating = 35
 #state_building = {
