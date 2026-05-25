@@ -1,9 +1,5 @@
-owner = BYZ
-controller = BYZ
-add_core = TUR
-add_core = CYP
-
+owner = PER
+controller = PER
+add_core = PER
 trade_goods = fruit
 life_rating = 35
-
-add_core = BYZ

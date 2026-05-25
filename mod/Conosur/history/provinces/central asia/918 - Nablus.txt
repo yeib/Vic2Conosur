@@ -1,12 +1,8 @@
-owner = ARA
-controller = ARA
-
-add_core = TUR
+owner = PER
+controller = PER
+add_core = PER
 trade_goods = fruit
 life_rating = 35
 
 1861.1.1 = {
-	controller = ARA 
-	owner = ARA
 }
-add_core = ARA
