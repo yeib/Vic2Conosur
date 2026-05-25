@@ -1,0 +1,6 @@
+owner = KUK
+controller = KUK
+add_core = KUK
+#add_core = UKR
+trade_goods = fruit
+life_rating = 35

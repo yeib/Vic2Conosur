@@ -1,0 +1,5 @@
+owner = KUK
+controller = KUK
+add_core = KUK
+trade_goods = cattle
+life_rating = 35
