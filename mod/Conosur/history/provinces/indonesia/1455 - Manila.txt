@@ -1,0 +1,9 @@
+owner = JAP
+controller = JAP
+
+trade_goods = fruit
+life_rating = 30
+colonial = 2
+fort = 1
+naval_base = 1
+add_core = JAP
