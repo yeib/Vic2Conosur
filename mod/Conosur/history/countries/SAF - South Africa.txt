@@ -1,0 +1,33 @@
+capital = 2087
+civilized = yes
+primary_culture = british
+religion = protestant
+government = absolute_monarchy
+plurality = 0.0
+prestige = 10
+status_points = 0
+reforms = {
+	slavery=no_slavery
+	vote_franschise=none_voting
+	public_meetings=yes_meetings
+	press_rights=censored_press
+	political_parties=none_allowed
+	trade_unions=no_trade_unions
+	hereditary_upper_house=all_hereditary
+}
+# Technologies
+post_napoleonic_thought = 1
+flintlock_rifles = 1
+bronze_muzzle_loaded_artillery = 1
+army_command_principle = 1
+private_banks = 1
+no_standard = 1
+guild_based_production = 1
+classicism_n_early_romanticism = 1
+late_enlightenment_philosophy = 1
+enlightenment_thought = 1
+water_wheel_power = 1
+publishing_industry = 1
+
+# Starting OOB
+oob = "SAF_oob.txt"
