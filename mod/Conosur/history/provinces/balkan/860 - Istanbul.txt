@@ -1,6 +1,6 @@
 owner = BYZ
 controller = BYZ
-add_core = TUR
+add_core = BYZ
 trade_goods = fruit
 life_rating = 35
 naval_base = 1
@@ -30,4 +30,3 @@ fort = 1
 1861.1.1 = {
 	naval_base = 2
 }
-add_core = BYZ
