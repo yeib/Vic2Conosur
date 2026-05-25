@@ -1,6 +1,6 @@
 owner = SCA
 controller = SCA
-add_core = DEN
+
 add_core = SCH
 add_core = GER
 add_core = SCA
