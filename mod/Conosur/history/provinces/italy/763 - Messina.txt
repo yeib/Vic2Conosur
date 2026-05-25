@@ -1,0 +1,12 @@
+owner = ITA
+controller = ITA
+add_core = ITA
+trade_goods = sulphur
+life_rating = 35
+#state_building = {
+#	level = 1
+#	building = winery
+#	upgrade = yes
+#}
+1861.1.1 = {
+}
