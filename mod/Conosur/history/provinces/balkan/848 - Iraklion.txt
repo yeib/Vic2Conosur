@@ -1,0 +1,13 @@
+owner = BYZ
+controller = BYZ
+add_core = EGY
+add_core = CRE
+
+trade_goods = fruit
+life_rating = 35
+
+1861.1.1 = {
+	controller = BYZ 
+	owner = BYZ
+}
+add_core = BYZ
