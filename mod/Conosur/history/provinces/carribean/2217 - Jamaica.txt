@@ -1,9 +1,8 @@
-owner = CUB
-controller = CUB
+owner = GYA
+controller = GYA
 trade_goods = sulphur
 life_rating = 35
 colonial = 2
 1861.1.1 = { railroad = 2 }
 
-add_core = CUB
-rgo_size = 4.5
+add_core = GYA
