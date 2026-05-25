@@ -1,8 +1,13 @@
 owner = MEX
-controller = MEX
-add_core = GUA
 
+controller = MEX
+
+
+add_core = GUA
 trade_goods = fruit
 life_rating = 30
-colonial = 2
+1861.1.1 = {
+	owner = MEX
+	controller = MEX
+}
 add_core = MEX
