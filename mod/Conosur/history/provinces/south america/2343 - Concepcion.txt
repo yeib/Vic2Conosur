@@ -1,0 +1,11 @@
+owner = PRG
+
+controller = PRG
+
+add_core = PRG
+
+trade_goods = cotton
+life_rating = 30
+
+rgo_size = 8
+rgo_output = 3.0

@@ -1,0 +1,5 @@
+owner = GYA
+controller = GYA
+trade_goods = cotton
+life_rating = 35
+colonial = 2add_core = GYA

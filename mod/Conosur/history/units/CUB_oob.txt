@@ -1,0 +1,9 @@
+# Cuba OOB
+army = {
+	name = "Ejercito de Cuba"
+	location = 2216 # Havana/La Vega
+	regiment = {
+		name = "1ra Infanteria de Cuba"
+		type = infantry
+	}
+}

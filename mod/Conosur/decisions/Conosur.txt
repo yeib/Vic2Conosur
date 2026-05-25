@@ -1,0 +1,80 @@
+political_decisions = {
+	form_conosur = {
+		potential = {
+			OR = {
+				tag = CHL
+				tag = ARG
+				tag = URU
+				tag = PRG
+				tag = PAT
+			}
+			NOT = { exists = CSU }
+		}
+		
+		allow = {
+			is_greater_power = yes
+			NOT = { war = yes }
+			# All Conosur regions must be owned, sphered or puppeted
+			# Chile
+			CHL = {
+				OR = {
+					all_core_in_sphere = yes
+					is_vassal = no
+					tag = THIS
+				}
+			}
+			# Argentina
+			ARG = {
+				OR = {
+					all_core_in_sphere = yes
+					is_vassal = no
+					tag = THIS
+				}
+			}
+			# Uruguay
+			URU = {
+				OR = {
+					all_core_in_sphere = yes
+					is_vassal = no
+					tag = THIS
+				}
+			}
+			# Paraguay
+			PRG = {
+				OR = {
+					all_core_in_sphere = yes
+					is_vassal = no
+					tag = THIS
+				}
+			}
+			# Patagonia
+			PAT = {
+				OR = {
+					all_core_in_sphere = yes
+					is_vassal = no
+					tag = THIS
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 20
+			change_tag = CSU
+			# Annex and core everything
+			any_country = {
+				limit = {
+					OR = {
+						tag = CHL
+						tag = ARG
+						tag = URU
+						tag = PRG
+						tag = PAT
+					}
+				}
+				CSU = {
+					inherit = PREV
+				}
+			}
+		}
+	}
+}

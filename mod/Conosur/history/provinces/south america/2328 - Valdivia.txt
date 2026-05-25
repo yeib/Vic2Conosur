@@ -1,0 +1,12 @@
+owner = PAT
+
+controller = PAT
+
+add_core = CHL
+trade_goods = iron
+
+life_rating = 35
+
+rgo_size = 8
+rgo_output = 3.0
+add_core = PAT

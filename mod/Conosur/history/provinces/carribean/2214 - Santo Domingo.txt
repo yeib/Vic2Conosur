@@ -1,0 +1,13 @@
+owner = CUB
+controller = CUB
+add_core = HAI
+add_core = DOM
+trade_goods = tobacco
+life_rating = 35
+1861.1.1 = {
+owner = CUB
+controller = CUB
+}
+
+add_core = CUB
+rgo_size = 4.5

@@ -1,0 +1,9 @@
+# Patagonia OOB
+army = {
+	name = "Ejercito de Patagonia"
+	location = 2396 # Rawson
+	regiment = {
+		name = "1ra Infanteria de Patagonia"
+		type = infantry
+	}
+}

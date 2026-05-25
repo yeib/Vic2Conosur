@@ -1,0 +1,7 @@
+# Conosur Mod Countries
+PAT = "countries/Patagonia.txt"
+GYA = "countries/Guayana.txt"
+CSU = "countries/Conosur.txt"
+MAP = "countries/Mapuche.txt"
+DIA = "countries/Diaguita.txt"
+CUB = "countries/Cuba.txt"

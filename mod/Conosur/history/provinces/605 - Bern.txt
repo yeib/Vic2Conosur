@@ -1,0 +1,9 @@
+owner = GER
+controller = GER
+add_core = SWI
+trade_goods = iron
+life_rating = 40
+fort = 1
+1861.1.1 = { railroad = 1 }
+
+add_core = GER

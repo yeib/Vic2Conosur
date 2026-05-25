@@ -1,0 +1,15 @@
+
+2115 = {
+	aristocrats = { culture = jewish religion = jewish size = 1000 }
+	clergymen = { culture = jewish religion = jewish size = 1000 }
+	artisans = { culture = jewish religion = jewish size = 5000 }
+	soldiers = { culture = jewish religion = jewish size = 2000 }
+	farmers = { culture = jewish religion = jewish size = 50000 }
+}
+2116 = { farmers = { culture = jewish religion = jewish size = 30000 } }
+2117 = { farmers = { culture = jewish religion = jewish size = 30000 } }
+2118 = { farmers = { culture = jewish religion = jewish size = 30000 } }
+2119 = { farmers = { culture = jewish religion = jewish size = 30000 } }
+2120 = { farmers = { culture = jewish religion = jewish size = 30000 } }
+2121 = { farmers = { culture = jewish religion = jewish size = 30000 } }
+2122 = { farmers = { culture = jewish religion = jewish size = 30000 } }

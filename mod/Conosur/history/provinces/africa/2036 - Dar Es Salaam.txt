@@ -1,0 +1,12 @@
+owner = ARA
+controller = ARA
+add_core = OMA
+add_core = ZAN
+trade_goods = fish
+life_rating = 35
+1861.1.1 = {
+	owner = ARA
+	controller = ARA
+}
+
+add_core = ARA
