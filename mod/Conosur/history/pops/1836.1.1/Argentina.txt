@@ -1839,55 +1839,55 @@
 #Neuquen (12000/3000 POPS)
 2391 = {
 	clergymen = {
-		culture = platinean
+		culture = patagon
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = platinean
+		culture = patagon
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = platinean
+		culture = patagon
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = platinean
+		culture = patagon
 		religion = catholic
 		size = 900
 	}
 
 	aristocrats = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 1800
 	}
@@ -1897,31 +1897,31 @@
 #Viedma (12000/3000 POPS)
 2392 = {
 	aristocrats = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 2700
 	}
@@ -1929,31 +1929,31 @@
 #Telen (12000/3000 POPS)
 2393 = {
 	aristocrats = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 2700
 	}
@@ -1961,55 +1961,55 @@
 #Bariloche (16000/4000 POPS)
 2394 = {
 	clergymen = {
-		culture = platinean
+		culture = patagon
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = platinean
+		culture = patagon
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = platinean
+		culture = patagon
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = platinean
+		culture = patagon
 		religion = catholic
 		size = 900
 	}
 
 	aristocrats = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 3675
 	}
@@ -2017,31 +2017,31 @@
 #Curaco (12000/3000 POPS)
 2395 = {
 	aristocrats = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 2700
 	}
@@ -2051,31 +2051,31 @@
 #Rawson (4000/1000 POPS)
 2396 = {
 	aristocrats = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 15
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 900
 	}
@@ -2083,31 +2083,31 @@
 #Esquel (4000/1000 POPS)
 2397 = {
 	aristocrats = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 15
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 900
 	}
@@ -2115,31 +2115,31 @@
 #Puerto Deseado (4000/1000 POPS)
 2398 = {
 	aristocrats = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 15
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 900
 	}
@@ -2147,31 +2147,31 @@
 #Rio Gallegos (4000/1000 POPS)
 2399 = {
 	aristocrats = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 15
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 900
 	}
@@ -2179,31 +2179,31 @@
 #Rio Grande (4000/1000 POPS)
 2400 = {
 	aristocrats = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 15
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = patagon
 		religion = catholic
 		size = 900
 	}

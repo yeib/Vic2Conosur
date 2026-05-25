@@ -706,73 +706,73 @@
 #Osorno (68000/17000 POPS)
 2332 = {
 	aristocrats = {
-		culture = chilean
+		culture = patagon
 		religion = catholic
 		size = 275
 	}
 
 	bureaucrats = {
-		culture = chilean
+		culture = patagon
 		religion = catholic
 		size = 15
 	}
 
 	officers = {
-		culture = chilean
+		culture = patagon
 		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = chilean
+		culture = patagon
 		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = chilean
+		culture = patagon
 		religion = catholic
 		size = 650
 	}
 
 	soldiers = {
-		culture = chilean
+		culture = patagon
 		religion = catholic
 		size = 125
 	}
 
 	farmers = {
-		culture = chilean
+		culture = patagon
 		religion = catholic
 		size = 11800
 	}
 
 	aristocrats = {
-		culture = chilean
+		culture = patagon
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = chilean
+		culture = patagon
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = chilean
+		culture = patagon
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = chilean
+		culture = patagon
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = chilean
+		culture = patagon
 		religion = catholic
 		size = 3600
 	}
@@ -781,31 +781,31 @@
 #Puerto Aisen (12000/3000 POPS)
 2333 = {
 	aristocrats = {
-		culture = chilean
+		culture = patagon
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = chilean
+		culture = patagon
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = chilean
+		culture = patagon
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = chilean
+		culture = patagon
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = chilean
+		culture = patagon
 		religion = catholic
 		size = 2700
 	}
@@ -813,31 +813,31 @@
 #Punta Arenas (8000/2000 POPS)
 2334 = {
 	aristocrats = {
-		culture = chilean
+		culture = patagon
 		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = chilean
+		culture = patagon
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = chilean
+		culture = patagon
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = chilean
+		culture = patagon
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = chilean
+		culture = patagon
 		religion = catholic
 		size = 1800
 	}
@@ -845,31 +845,31 @@
 #Porvenir (4000/1000 POPS)
 2335 = {
 	aristocrats = {
-		culture = chilean
+		culture = patagon
 		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = chilean
+		culture = patagon
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = chilean
+		culture = patagon
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = chilean
+		culture = patagon
 		religion = catholic
 		size = 15
 	}
 
 	farmers = {
-		culture = chilean
+		culture = patagon
 		religion = catholic
 		size = 900
 	}
