@@ -1,11 +1,8 @@
-owner = HND
-controller = HND
-add_core = PAN
-
-trade_goods = grain
+trade_goods = fish
 life_rating = 35
 1861.1.1 = {
 	owner = HND
 	controller = HND
+	colonial = 2
 }
 add_core = HND
