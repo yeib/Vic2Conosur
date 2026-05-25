@@ -1,7 +1,8 @@
 cash = 1000000
 treasury = 1000000
 capital = 2396
-primary_culture = patagonian
+primary_culture = patagon
+culture = south_andean
 religion = catholic
 government = absolute_monarchy
 plurality = 0.0

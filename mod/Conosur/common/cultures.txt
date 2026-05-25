@@ -700,15 +700,6 @@ baltic = {
 }
 
 levantine = {
-	jewish = {
-		color = { 150 150 200 }
-		first_names = { Abraham Amos Baruch Binyamin Daniel David Efraim Ehud Eli Eliezer Elijah Gavriel Hebel Immanuel Itzhak Levi Mattiyahu Mensahe Mikhael Moshe
-		Natan Noach Reuben Roi Shalom Shimon Tovia Uriel Uzziel Yaakov Yachin Yafe Yehoshua Yehudah Yochanan Yonatan Yosef Zohar
-		}
-		last_names = { Banai Barak "Ben Ami" Benveniste Canetti Cantor Cardoso Cohen Disraeli Gaon Golan Halevi Levy Maimon Mizrachi Montefiore Peretz Rafaeli Saban
-		Sassoon Sebag
-		}
-	}
 	leader = european
 	greek = {
 		color = {200 50 100}
@@ -1588,16 +1579,18 @@ oceanic = {
 }
 
 native_american = {
-	diaguita = {
-		color = { 150 100 50 }
-		first_names = { Viltipoco Juan Calchaqui }
-		last_names = { Condori Mamani Choque }
-	}
+
 	mapuche = {
 		color = { 50 150 50 }
-		first_names = { Lautaro Caupolican Galvarino Pelantaro Calfucura Namuncura }
-		last_names = { Loncon Catrileo Huaiquipan Millaman Painemal }
+		first_names = { Caupolican Colocolo Galvarino Lautaro Leftraru Lientur Pelantaro }
+		last_names = { Antilef Antipan Calfunao Catrileo Coliqueo Huaiquipan Huenchumilla Huenuman Linconao Marileo Nahuelpan Nancucheo Painequeo Paillalef Panguilef Pilquiman Quidel Quilapan Treuquil }
 	}
+	diaguita = {
+		color = { 150 100 50 }
+		first_names = { Calquin Gualican Huilquiman Millaman }
+		last_names = { Alancay Campillay Catricura Chinga Gualacan Huanchicay Huenchu Lincopan Llancaqueo Millacan Millacura Nahuel Pichun Quinchamán }
+	}
+
 	leader = nativeamerican
 	is_overseas = no
 	zapotec = {
@@ -1848,21 +1841,16 @@ neo_european_cultures = {
 }
 
 latin_american_cultures = {
+
 	chilean = {
 		color = { 200 50 50 }
-		first_names = { Adolfo Agustin Alejandro Andres Anibal Antonio Bartolome Bernardo David Diego
-		Domingo Eduardo Emiliano Emilio Enrique Esteban Eusebio Federico Felipe Francisco
-		German Hernando Hilarion Ignacio Isidoro Ismael Jorge Jose "Jose Miguel" Juan
-		"Juan Antonio" "Juan Francisco" Justo Ladislao Luis Manuel Mariano Miguel Narciso
-		Nicolas Pablo Patricio Pedro Ramon Rufino Ruperto Santiago Sebastian Severino Tomas
-		}
-
-		last_names = { Abaroa Agreda Altamirano Arteaga Ballivian Baquedano Belzu Blanche Blanco Bulnes
-		Cabrera Calvo Campero Castilla Corrico Daza "de la Cruz" "de Santa Cruz" "de Velasco" "de Vidal"
-		Echenique Errazuriz Fernandez Figueroa Franco Freire Gamarra Gorostiaga Grau
-		Guilarte "La Mar" Latorre Lynch Melgarejo Monje Montero Montes Montt Orbegoso
-		Pezet Rebolledo Ruiz-Tagle Salaverry "Santa Maria" Siles Sotomayor Toro Valencia Zanartu Zapata
-		}
+		first_names = { Arturo Bernardo Carlos Diego Eduardo Francisco Gabriel Gonzalo Hernan Ignacio Javier Jose Juan Luis Manuel Matias Nicolas Pablo Pedro Ramon Raul Rene Ricardo Rodrigo Sergio Tomas Vicente Victor }
+		last_names = { Aguilar Allende Alvarado Alvarez Araya Arias Astudillo Avila Bravo Bustamante Caceres Calderon Campos Cardenas Carrasco Carvajal Castillo Castro Catalan Cerda Contreras Cortes Cruz Diaz Dominguez Donoso Escobar Espinoza Fernandez Figueroa Flores Fuentes Gajardo Gallardo Galvez Garcia Garrido Gomez Gonzalez Gutierrez Guzman Henriquez Herrera Hidalgo Ibarra Jaramillo Jimenez Lagos Leiva Leon Lobos Lopez Loyola Macias Mancilla Marquez Martinez Medina Mejia Mendez Mendoza Miranda Molina Morales Morales Munoz Navarro Nunez Ocampo Olivares Orellana Ortega Ortiz Osorio Oyarzun Pacheco Padilla Palma Pardo Paredes Parra Pasten Pavez Pena Peralta Perez Pino Pinto Pizarro Poblete Ponce Prado Prieto Ramirez Ramos Reyes Riquelme Rivas Rivera Robles Rodriguez Rojas Romero Rubio Ruiz Saavedra Salas Salazar Salinas Sanhueza Santana Segura Sepulveda Silva Soto Suarez Tapia Toledo Toro Torres Trejo Troncoso Uribe Urzua Valdes Valdivia Valencia Vallejos Varela Vargas Vasquez Vega Velasquez Venegas Vera Vergara Vidal Villalobos Villanueva Villar Villegas Vivanco Yanez Zamora Zuniga }
+	}
+	patagon = {
+		color = { 100 150 200 }
+		first_names = { Alejandro Antonio Carlos Domingo Felipe Francisco Guillermo Jose Juan Lorenzo Manuel Martin Miguel Nicolas Pablo Pedro Rafael Ramon Santiago Tomas }
+		last_names = { Aguilar Alvarez Arias Bustamante Campos Cardenas Carrasco Castillo Castro Contreras Cortes Cruz Diaz Escobar Espinoza Fernandez Figueroa Flores Fuentes Gallardo Garcia Gomez Gonzalez Gutierrez Guzman Herrera Ibarra Jimenez Lopez Martinez Medina Mendez Mendoza Miranda Molina Morales Munoz Navarro Nunez Olivares Ortega Ortiz Pacheco Padilla Parra Pena Perez Pino Pizarro Ponce Ramirez Ramos Reyes Rivas Rivera Rodriguez Rojas Romero Ruiz Salazar Salinas Santana Sepulveda Silva Soto Suarez Tapia Toledo Toro Torres Uribe Valdes Valencia Vargas Vasquez Vega Velasquez Venegas Vera Vergara Vidal Villalobos Villanueva Villegas Yanez Zuniga }
 	}
 
 	leader = southamerican

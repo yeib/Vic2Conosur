@@ -1,7 +1,6 @@
-cash = 5000000
-treasury = 5000000
 capital = 2324
-primary_culture = south_andean
+primary_culture = chilean
+culture = south_andean
 religion = catholic
 government = democracy
 plurality = 25.0
