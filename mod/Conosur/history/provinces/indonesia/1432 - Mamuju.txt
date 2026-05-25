@@ -1,7 +1,6 @@
 owner = AST
 controller = AST
 add_core = AST
-
-trade_goods = timber
+trade_goods = grain
 life_rating = 30
 colonial = 2
