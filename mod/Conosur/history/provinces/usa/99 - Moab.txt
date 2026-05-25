@@ -1,12 +1,12 @@
-owner = BYZ
-controller = BYZ
+owner = MEX
+controller = MEX
 add_core = MEX
 add_core = DES
 trade_goods = grain
 life_rating = 35
 1861.1.1 = {
-owner = BYZ
-controller = BYZ
-add_core = USA
+owner = MEX
+controller = MEX
+
 }
 add_core = BYZ
