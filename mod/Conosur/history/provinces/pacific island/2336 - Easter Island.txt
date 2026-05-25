@@ -2,3 +2,4 @@ trade_goods = fish
 life_rating = 15
 
 add_core = PAT
+add_core = CHL
