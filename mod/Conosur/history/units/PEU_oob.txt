@@ -1,37 +1,37 @@
-# Standardized OOB for CUB
+# Standardized OOB for PEU
 army = {
 	name = "1st Army"
-	location = 2216
+	location = 2295
 	regiment = {
 		name= "1st Infantry"
 		type = infantry
-		home = 2216
+		home = 2295
 	}
 	regiment = {
 		name= "2nd Infantry"
 		type = infantry
-		home = 2216
+		home = 2295
 	}
 	regiment = {
 		name= "3rd Infantry"
 		type = infantry
-		home = 2216
+		home = 2295
 	}
 	regiment = {
 		name= "1st Cavalry"
 		type = cavalry
-		home = 2216
+		home = 2295
 	}
 	regiment = {
 		name= "1st Artillery"
 		type = artillery
-		home = 2216
+		home = 2295
 	}
 }
 
 navy = {
 	name = "1st Fleet"
-	location = 2219
+	location = 2297
 	ship = {
 		name= "1st Frigate"
 		type = frigate
