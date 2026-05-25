@@ -1,0 +1,7 @@
+owner = HND
+controller = HND
+add_core = NEP
+trade_goods = tea
+life_rating = 25
+
+add_core = HND
