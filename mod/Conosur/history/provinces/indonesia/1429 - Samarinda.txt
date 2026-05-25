@@ -1,0 +1,6 @@
+controller = NET
+owner = NET
+trade_goods = sulphur
+life_rating = 15
+
+add_core = NET

@@ -1,0 +1,6 @@
+controller = NET
+owner = NET
+trade_goods = coffee
+life_rating = 15
+
+add_core = NET
