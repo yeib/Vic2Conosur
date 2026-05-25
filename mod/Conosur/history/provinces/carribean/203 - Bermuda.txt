@@ -1,5 +1,5 @@
-owner = GYA
-controller = GYA
+owner = CUB
+controller = CUB
 trade_goods = fish
 life_rating = 35
 colonial = 2
@@ -9,4 +9,5 @@ fort = 1
 	naval_base = 2
 	fort = 2
 }
-add_core = GYA
+
+add_core = CUB
