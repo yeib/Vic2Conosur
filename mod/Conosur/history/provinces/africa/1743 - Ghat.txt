@@ -1,6 +1,6 @@
-owner = PER
-controller = PER
-add_core = PER
+owner = ARA
+controller = ARA
+add_core = ARA
 trade_goods = wool
 life_rating = 25
 1861.1.1 = {
