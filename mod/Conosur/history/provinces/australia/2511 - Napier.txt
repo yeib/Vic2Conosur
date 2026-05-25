@@ -1,0 +1,10 @@
+
+trade_goods = cattle
+life_rating = 30
+1861.1.1 = { 
+	owner = AST
+	controller = AST
+	colonial = 2
+}
+
+add_core = AST
